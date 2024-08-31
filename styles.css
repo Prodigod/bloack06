@@ -1,0 +1,47 @@
+.title-section {
+    color: rgb(0, 0, 0);
+    box-shadow: 0 4px 8px rgba(4, 247, 85, 0.2); 
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(100, 179, 11, 0.671);
+    margin-right: 15%;
+    margin-left: 15%;
+    }
+h2 {
+    background-color:rgba(100, 179, 11, 0.671);
+    color: rgb(28, 73, 51);
+    box-shadow: 0 10px px rgba(245, 188, 3, 0.2); 
+    border: 1px solid;
+    padding: 20px;
+    margin-left: 15%;
+    width: 30%;
+    font: arial;
+}
+.grocery-section {
+    background-color: #d3d3d3; 
+    padding: 10px;
+    margin-left: 15%;
+    border-radius: 5px;
+    width: 15%;  
+   
+    
+}
+.canneddry {
+  position: absolute;
+  margin-left: 33%;
+  margin-top: -17%;
+  width: 25%
+}
+
+.freezeritems {
+    position: absolute;
+    margin-left: 33%;
+    margin-top: -16%;
+    width: 25%
+  }
+
+footer {
+    text-align: center;
+}
+
+
